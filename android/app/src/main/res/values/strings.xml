@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Koros Günce</string>
+    <string name="title_activity_main">Koros Günce</string>
+    <string name="package_name">com.personalhub.app</string>
+    <string name="custom_url_scheme">com.personalhub.app</string>
+</resources>
